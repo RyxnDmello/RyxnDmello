@@ -21,76 +21,82 @@
 
 | NAME | TECHNOLOGIES | LINK |
 | :- | :- | :- |
-| Codexo | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-02)
-| TaskTonic | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-03)
-| CloudSense | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-04)
-| CyberVerse | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-05)
+| Codexo | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-02)
+| TaskTonic | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-03)
+| CloudSense | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-04)
+| CyberVerse | <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" /> | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/WebApp-NodeJs-05)
 
 ### 📱 FLUTTER DEVELOPMENT
 
 | NAME | TECHNOLOGIES | LINK |
 | :- | :-: | :-: |
-| TaskFlow | <img height="32" width="32" src="https://cdn.simpleicons.org/dart/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/flutter_firebase_01)&nbsp;
-| SkySync | <img height="32" width="32" src="https://cdn.simpleicons.org/dart/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/flutter_firebase_02)&nbsp;
+| TaskFlow | <img height="32" width="32" src="https://cdn.simpleicons.org/dart/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/flutter_firebase_01)&nbsp;
+| SkySync | <img height="32" width="32" src="https://cdn.simpleicons.org/dart/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/flutter_firebase_02)&nbsp;
+| PixelFlix | <img height="32" width="32" src="https://cdn.simpleicons.org/dart/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/0175C2" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/firebase" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/flutter_firebase_03)&nbsp;
 
 ### 🎮 GAME DEVELOPMENT
 
 | NAME | TECHNOLOGIES | PLAY NOW |
 | :- | :-: | :-: |
-| GeometricMadness | <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/purple" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/GameDev-Unity-01)&nbsp; [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://shadowlightworld.itch.io/geometricmadness)&nbsp; [![Play Store](https://img.shields.io/badge/Google_Play-darkgreen?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ShadowLight.GeometricMadness&hl=en_IN&gl=US)
-| HyperCrash | <img height="32" width="32" src="https://cdn.simpleicons.org/unity" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/purple" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/GameDev-Unity-02)&nbsp; [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://shadowlightworld.itch.io/hypercrash)&nbsp; [![Play Store](https://img.shields.io/badge/Google_Play-darkgreen?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ShadowLight.HyperCrash&hl=en_IN&gl=US)
+| GeometricMadness | <img height="32" width="32" src="https://cdn.simpleicons.org/unity/ffffff" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/purple/" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/GameDev-Unity-01)&nbsp; [![Itch.io](https://img.shields.io/badge/Itch.io-df0000.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://shadowlightworld.itch.io/geometricmadness)&nbsp; [![Play Store](https://img.shields.io/badge/Google%20Play-008000.svg?style=for-the-badge&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ShadowLight.GeometricMadness&hl=en_IN&gl=US)
+| HyperCrash | <img height="32" width="32" src="https://cdn.simpleicons.org/unity/ffffff" />&nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/csharp//purple/" />&nbsp; | [![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RyxnDmello/GameDev-Unity-02)&nbsp; [![Itch.io](https://img.shields.io/badge/Itch.io-df0000.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://shadowlightworld.itch.io/hypercrash)&nbsp; [![Play Store](https://img.shields.io/badge/Google%20Play-008000.svg?style=for-the-badge&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ShadowLight.HyperCrash&hl=en_IN&gl=US)
 
 <hr>
 
 # 🚀 FRAMEWORKS & LIBRARIES
 
-### 🌍 FULL-STACK WEB DEVELOPMENT
-
 | ✏️ FRONT-END TECHNOLOGIES | 🤖 BACK-END TECHNOLOGIES | 🗃️ DATABASE & LIBRARIES | 🌐 HOSTING |
 | :- | :- | :- | :- |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94f.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Mongoose](https://img.shields.io/badge/mongoose-%23DD0031.svg?style=for-the-badge&logoColor=white) | ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) | 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) | 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)| 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) | ![Node.js](https://img.shields.io/badge/node.js-006f00.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white) | ![Github Pages](https://img.shields.io/badge/github%20pages-000000?style=for-the-badge&logo=github&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black) | ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) | ![EJS](https://img.shields.io/badge/EJS-ECD53F.svg?style=for-the-badge&logo=EJS&logoColor=black) | ![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white) | 
+| ![React](https://img.shields.io/badge/react-00002b.svg?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Nodemon](https://img.shields.io/badge/Nodemon-00a000.svg?style=for-the-badge&logo=Nodemon&logoColor=white) |
+| ![JQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white) | ![DotEnv](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black) |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
 
 ### 📱 CROSS-PLATFORM MOBILE APP DEVELOPMENT
 
 | ⚒️ FRAMEWORK | ✒️ LANGUAGE | 🤖 BACK-END |
 | :-: | :-: | :-: |
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black) 
 
 ### 🎮 2D GAME DEVELOPMENT
 
 | ⚒️ ENGINE | ✒️ LANGUAGE |
 | :-: | :-: |
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | ![C#](https://img.shields.io/badge/Microsoft_c%23-purple.svg?style=for-the-badge&logoColor=white)&nbsp; |
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white) | 
 
 ### 💻 EDITORS I LOVE
 
 | 🖥️ PLATFORM | ✏️ EDITORS |
 | :-: | :-: |
-| ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 <hr>
 
 # 💡 GITHUB STATISTICS
 
-[![STATS](https://awesome-github-stats.azurewebsites.net/user-stats/RyxnDmello?cardType=github&theme=radical&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)<br>
+<div align="center">
+  
+  ![Statistics](https://github-readme-stats.vercel.app/api?username=RyxnDmello&theme=radical&show_icons=true&hide_border=true&count_private=true) &nbsp;
+  [![Streaks](https://streak-stats.demolab.com/?user=RyxnDmello&theme=radical&hide_border=true)](https://git.io/streak-stats) &nbsp;
+  </div>
+</div>
+
 
 <hr>
 
-# 🔗 MY SOCIALS
+<div align="center">
+  
+## 💎 YOUR FEEDBACK WOULD BE HIGHLY APPRECIATED
 
-I am a computer applications student and developer expanding my knowledge with the help of the amazing instructors at Udemy. But, in order to grow, we need to learn from our mistakes, and it is your feedback and guidance that will help me find success. Feel free to contact me any way you like. Thank You :)
-
-[![gmail](https://img.shields.io/badge/gmail-1f0799?style=for-the-badge&logo=gmail&logoColor=f02114)](mailto:ryanndmello10@gmail.com)
-[![instagram](https://img.shields.io/badge/instagram-f02114?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryxndmello10/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanndmello)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryxndmello/)
-[![Itch.io](https://img.shields.io/badge/itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://shadowlightworld.itch.io/)
-[![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@RyxnDmello)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RyxnDmello)
+[![portfolio](https://img.shields.io/badge/portfolio-00002F?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ryanndmello/)
+[![Instagram](https://img.shields.io/badge/Instagram-BF0020.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ryxndmello10/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-006F00.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/9145000789)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryxndmello)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/ryxndmello)
+</div>
 
 <hr>
 
